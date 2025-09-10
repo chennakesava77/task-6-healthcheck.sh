@@ -1,0 +1,34 @@
+========================
+ System Health Check - 2025-09-10 12:09:35
+========================
+
+ Date & Time:
+Wed, Sep 10, 2025 12:09:35 PM
+
+⏱ Uptime:
+up 18588 minutes
+
+ CPU Load:
+2.83, 3.76, 4.02
+
+ Memory Usage:
+Total: 8026 MB, Free: 1089 MB, Used: 6936 MB
+
+ Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G  105G  134G  44% /
+
+ Top 5 Memory-Consuming Processes:
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     2023       1    2023      11740  cons0     197609 12:03:56 /usr/bin/bash
+     2245    2023    2245      10988  cons0     197609 12:09:34 /usr/bin/bash
+     2255    2245    2245      10004  cons0     197609 12:09:37 /usr/bin/bash
+     2254    2245    2245       3692  cons0     197609 12:09:37 /usr/bin/ps
+
+ Service Status:
+nginx:  Not Running
+ssh:  Not Running
+sshd:  Not Running
+
+----------------------------------
+
